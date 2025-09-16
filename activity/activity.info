@@ -1,0 +1,10 @@
+[Activity]
+name = Sugar-AI
+activity_version = 1
+bundle_id = org.sugarlabs.SugarAI
+exec = python3 main.py
+icon = activity-sugar-ai
+license = GPLv2+
+repository = https://github.com/sugarlabs/sugar-ai-activity.git
+summary = AI-powered coding assistant for Sugar Learning Platform
+description = Sugar-AI Activity provides an interactive interface to the Sugar-AI API, helping students and teachers learn programming with child-friendly AI assistance. Ask questions about Python, GTK, Sugar activities, and get educational explanations.

@@ -1,0 +1,10 @@
+1
+
+* Initial release of Sugar-AI Activity
+* Interactive AI chat interface for Sugar Learning Platform
+* RAG mode toggle for enhanced or direct responses
+* API key management and configuration
+* Conversation history persistence
+* Example questions for getting started
+* Child-friendly educational interface
+* Integration with Sugar-AI API at ai.sugarlabs.org
