@@ -41,11 +41,18 @@ python3 main.py
 1. **Configure API Key**: First, set up your Sugar-AI API key using the toolbar button
 2. **Ask Questions**: Type programming questions in the input field
 3. **Toggle RAG Mode**: Use the RAG Mode button to switch between enhanced and direct responses
-4. **View History**: Scroll through your conversation history
-5. **Clear Chat**: Use the Clear button to start fresh
-6. **Try Examples**: Click on example questions to get started
+4. **Clear Chat**: Use the Clear button to start fresh
+5. **Try Examples**: Click on example questions to get started
 
 **Note**: Sugar-AI responses can take 2-5 minutes to generate, especially for complex questions. If the server experiences timeouts (504 errors), the activity will automatically retry up to 3 times with increasing delays. Please be patient while the AI processes your request.
+
+## Screenshots
+
+- Waiting:
+![Waiting Screenshot](waiting.png)
+
+- Answer:
+![Answer Screenshot](answer.png)
 
 ## API Integration
 
